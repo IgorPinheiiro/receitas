@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: receitas
+server:
+    port: 8080
